@@ -88,8 +88,4 @@ public class HomePage {
         driver.findElement(shopAllGroceryButton).click();
         return new GroceryPage(driver);
     }
-
-
-
-
 }

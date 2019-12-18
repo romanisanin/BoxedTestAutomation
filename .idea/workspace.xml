@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6eb16815-4cca-41d6-830c-1b0f1befa4d3" name="Default Changelist" comment="" />
+    <list default="true" id="6eb16815-4cca-41d6-830c-1b0f1befa4d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/GroceryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/GroceryPage.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/FavoritesPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="493">
+              <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/CheckoutPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-269">
+            <state relative-caret-position="17">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
@@ -47,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/GroceryPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+            <state relative-caret-position="272">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -56,17 +58,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/base/Tests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="52" column="29" lean-forward="true" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+            <state relative-caret-position="748">
+              <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+            <state relative-caret-position="1343">
+              <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1632#1633#0" expanded="true" />
@@ -90,17 +92,20 @@
       <find>clickLink</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/base/LoginTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/GroceryPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/base/Tests.java" />
         <option value="$PROJECT_DIR$/src/test/java/base/baseTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/FavoritesPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/CookiesPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/CheckoutPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/GroceryPage.java" />
       </list>
     </option>
   </component>
@@ -118,71 +123,51 @@
     <option name="height" value="1056" />
   </component>
   <component name="ProjectId" id="1V74UynrJqWzoEcVyic8k1uSeyM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="boxedTestAutomation (2)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boxedTestAutomation (2)" type="462c0819:PsiDirectoryNode" />
+              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BoxedTestAutomation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="boxedTestAutomation (2)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boxedTestAutomation (2)" type="462c0819:PsiDirectoryNode" />
+              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BoxedTestAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="boxedTestAutomation (2)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boxedTestAutomation (2)" type="462c0819:PsiDirectoryNode" />
+              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BoxedTestAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="boxedTestAutomation (2)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boxedTestAutomation (2)" type="462c0819:PsiDirectoryNode" />
+              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BoxedTestAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="boxedTestAutomation (2)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boxedTestAutomation (2)" type="462c0819:PsiDirectoryNode" />
+              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BoxedTestAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="boxedTestAutomation (2)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boxedTestAutomation (2)" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="boxedTestAutomation (2)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boxedTestAutomation (2)" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="boxedTestAutomation (2)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boxedTestAutomation (2)" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -371,8 +356,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -431,13 +417,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/GroceryPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/base/FavoritesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -462,17 +441,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/base/Tests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="52" column="29" lean-forward="true" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+        <state relative-caret-position="748">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/FavoritesPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="1343">
+          <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1632#1633#0" expanded="true" />
+            <element signature="e#1691#1692#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -489,19 +470,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/CheckoutPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-269">
+        <state relative-caret-position="17">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/GroceryPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        <state relative-caret-position="272">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/FavoritesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1632#1633#0" expanded="true" />
-            <element signature="e#1691#1692#0" expanded="true" />
           </folding>
         </state>
       </provider>
