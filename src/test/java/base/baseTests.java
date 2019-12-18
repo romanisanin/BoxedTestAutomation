@@ -5,11 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Test;
 import pages.HomePage;
-
-import java.util.ArrayList;
-import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class baseTests {
@@ -36,7 +32,7 @@ public class baseTests {
 
     @AfterClass
     public void tearDown(){
-        //driver.quit();
+        driver.quit();
     }
 
 }

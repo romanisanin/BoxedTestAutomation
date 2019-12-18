@@ -26,9 +26,9 @@ public class HomePage {
         this.driver = driver;
     }
 
-    private void clickLink(By linkText){
-        driver.findElement(linkText).click();
-    }
+//    private void clickLink(By linkText){
+//        driver.findElement(linkText).click();
+//    }
 
     public void setUsername(String username){
         driver.findElement(usernameField).sendKeys(username);
@@ -39,7 +39,6 @@ public class HomePage {
     }
 
     public void clickLoginButton(){
-        //wait.until(ExpectedConditions.visibilityOfElementLocated(mainLoginButton));
         driver.findElement(mainLoginButton).click();
     }
 
@@ -70,7 +69,6 @@ public class HomePage {
         Actions actions = new Actions(driver);
         actions.moveToElement(category).perform();
         actions.moveToElement(snack).perform();
-        
     }
     public CookiesPage clickCookiesPage(){
         driver.findElement(cookiesButton).click();
@@ -84,7 +82,6 @@ public class HomePage {
         Actions actions = new Actions(driver);
         actions.moveToElement(category).perform();
         actions.moveToElement(grocery).perform();
-
     }
 
     public GroceryPage clickGroceryPage(){

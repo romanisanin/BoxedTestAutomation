@@ -3,14 +3,13 @@ package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class CheckoutPage {
     private WebDriver driver;
-    private By shippingCost = By.xpath("//*[@id=\"checkout-review\"]/div[1]/div/section[1]/div/div/div[2]/");
+    private By shippingCost = By.xpath("//div[@data-bx='order-pricing-list']");
     private By orderItems = By.xpath("//h3[text()='YOUR BOXED ORDER']");
     private List<String> prodList= new ArrayList<>();
     private By product_name= By.className("g-brand-text");
