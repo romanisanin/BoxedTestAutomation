@@ -17,11 +17,11 @@ public class GroceryPage {
         this.driver = driver;
     }
 
-    public void waitForLoad() {
-        ExpectedCondition<Boolean> pageLoadCondition = driver -> ((JavascriptExecutor)driver).executeScript("return document.readyState").equals("complete");
-        WebDriverWait wait = new WebDriverWait(driver, 30);
-        wait.until(pageLoadCondition);
-    }
+//    public void waitForLoad() {
+//        ExpectedCondition<Boolean> pageLoadCondition = driver -> ((JavascriptExecutor)driver).executeScript("return document.readyState").equals("complete");
+//        WebDriverWait wait = new WebDriverWait(driver, 30);
+//        wait.until(pageLoadCondition);
+//    }
 
     public void AddUntilFreeShipping() throws InterruptedException{
         WebElement products = driver.findElement(By.className("g-product-list"));

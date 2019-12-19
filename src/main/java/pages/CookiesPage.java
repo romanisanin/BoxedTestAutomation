@@ -22,11 +22,11 @@ public class CookiesPage {
         this.driver = driver;
     }
 
-    public void waitForLoad() {
-        ExpectedCondition<Boolean> pageLoadCondition = driver -> ((JavascriptExecutor)driver).executeScript("return document.readyState").equals("complete");
-        WebDriverWait wait = new WebDriverWait(driver, 30);
-        wait.until(pageLoadCondition);
-    }
+//    public void waitForLoad() {
+//        ExpectedCondition<Boolean> pageLoadCondition = driver -> ((JavascriptExecutor)driver).executeScript("return document.readyState").equals("complete");
+//        WebDriverWait wait = new WebDriverWait(driver, 30);
+//        wait.until(pageLoadCondition);
+//    }
 
     public void waitForElement() {
         Set<String> windows = driver.getWindowHandles();

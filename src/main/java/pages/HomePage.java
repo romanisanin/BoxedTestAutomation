@@ -16,19 +16,15 @@ public class HomePage {
     private By passwordField = By.id("password");
     private By loginButton = By.xpath("//button[contains(text(),'LOG IN')]");
     private By loginStatus = By.xpath("//a[@aria-label='Account']");
-    private By categoriesButton = By.xpath("//a[@title='Categories' and contains(span,'Categories')]");
-    private By snacksButton = By.xpath("//a[@title='Snacks' and contains(span,'Snacks')]");
+    public By categoriesButton = By.xpath("//a[@title='Categories' and contains(span,'Categories')]");
+    public By snacksButton = By.xpath("//a[@title='Snacks' and contains(span,'Snacks')]");
     private By cookiesButton = By.xpath("//a[@title='Cookies' and contains(span,'Cookies')]");
-    private By groceryButton = By.xpath("//a[@title='Grocery' and contains(span,'Grocery')]");
+    public By groceryButton = By.xpath("//a[@title='Grocery' and contains(span,'Grocery')]");
     private By shopAllGroceryButton = By.xpath("//a[@title='Grocery' and contains(text(),'Shop All Grocery')]");
 
     public HomePage(WebDriver driver){
         this.driver = driver;
     }
-
-//    private void clickLink(By linkText){
-//        driver.findElement(linkText).click();
-//    }
 
     public void setUsername(String username){
         driver.findElement(usernameField).sendKeys(username);
@@ -62,26 +58,14 @@ public class HomePage {
         wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(loginStatus));
     }
 
-    //Cookies methods
-    public void clickCategoriesButton(){
-        WebElement category = driver.findElement(categoriesButton);
-        WebElement snack = driver.findElement(snacksButton);
+    public void moveToElement(By element){
+        WebElement webElement = driver.findElement(element);
         Actions actions = new Actions(driver);
-        actions.moveToElement(category).perform();
-        actions.moveToElement(snack).perform();
+        actions.moveToElement(webElement).perform();
     }
     public CookiesPage clickCookiesPage(){
         driver.findElement(cookiesButton).click();
         return new CookiesPage(driver);
-    }
-
-    //Grocery methods
-    public void moveToGroceryCategory(){
-        WebElement category = driver.findElement(categoriesButton);
-        WebElement grocery = driver.findElement(groceryButton);
-        Actions actions = new Actions(driver);
-        actions.moveToElement(category).perform();
-        actions.moveToElement(grocery).perform();
     }
 
     public GroceryPage clickGroceryPage(){
