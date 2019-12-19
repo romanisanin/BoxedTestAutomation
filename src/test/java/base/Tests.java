@@ -12,9 +12,8 @@ import javax.swing.*;
 
 public class Tests extends baseTests {
     @Test(priority = 1)
-    public void testSuccessfulLogin() throws InterruptedException {
+    public void testSuccessfulLogin(){
         homePage.clickLoginButton();
-        //Thread.sleep(2000);
         homePage.switchToLoginWindow();
         homePage.setUsername("romanisanin@gmail.com");
         homePage.setPassword("Fcnhf461119");
@@ -25,9 +24,8 @@ public class Tests extends baseTests {
     }
 
     @Test(priority = 2)
-    public void testAddFavoriteItems() throws InterruptedException{
+    public void testAddFavoriteItems(){
         homePage.clickLoginButton();
-        //Thread.sleep(2000);
         homePage.switchToLoginWindow();
         homePage.setUsername("romanisanin@gmail.com");
         homePage.setPassword("Fcnhf461119");
@@ -44,9 +42,8 @@ public class Tests extends baseTests {
     }
 
     @Test (priority = 3)
-    public void testFreeShipping() throws InterruptedException{
+    public void testFreeShipping(){
         homePage.clickLoginButton();
-        Thread.sleep(2000);
         homePage.switchToLoginWindow();
         homePage.setUsername("romanisanin@gmail.com");
         homePage.setPassword("Fcnhf461119");
@@ -56,10 +53,8 @@ public class Tests extends baseTests {
         homePage.moveToElement(homePage.groceryButton);
         GroceryPage groceryPage = homePage.clickGroceryPage();
         pageLoad();
-        //Thread.sleep(5000);
         groceryPage.AddUntilFreeShipping();
         CheckoutPage checkoutPage = groceryPage.clickCheckoutButton();
-        //Thread.sleep(5000);
         pageLoad();
         Assert.assertTrue(checkoutPage.isFreeShipping(), "The shipping price is not free");
         Assert.assertTrue(checkoutPage.compareAddedProductsWithCheckout(groceryPage.prodList, checkoutPage.getProductList()), "Order List doesn't contain elements added on Grocery Page");

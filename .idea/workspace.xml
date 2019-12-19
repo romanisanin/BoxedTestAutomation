@@ -5,115 +5,18 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/CookiesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CookiesPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/GroceryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/GroceryPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/FavoritesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/LoginTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/base/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/Tests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/base/baseTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/baseTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/boxedTestAutomation.code-workspace" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/CheckoutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/CheckoutPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/CookiesPage$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pages/CookiesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/CookiesPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/FavoritesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/FavoritesPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/GroceryPage$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pages/GroceryPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/GroceryPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/FavoritesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/base/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/Tests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/base/baseTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/baseTests.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/FavoritesPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/CookiesPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/CheckoutPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/GroceryPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="7" selection-start-line="19" selection-start-column="5" selection-end-line="23" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/base/Tests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="52" column="41" lean-forward="true" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="65" column="42" lean-forward="true" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1632#1633#0" expanded="true" />
-                <element signature="e#1691#1692#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/base/baseTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="75" lean-forward="true" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1138#1139#0" expanded="true" />
-                <element signature="e#1217#1218#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -130,20 +33,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/pages/FavoritesPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/CheckoutPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/base/LoginTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/base/baseTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/base/Tests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/GroceryPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/CookiesPage.java" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -159,95 +48,6 @@
   </component>
   <component name="ProjectId" id="1V74UynrJqWzoEcVyic8k1uSeyM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BoxedTestAutomation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BoxedTestAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BoxedTestAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BoxedTestAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BoxedTestAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BoxedTestAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BoxedTestAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BoxedTestAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.seleniumhq.selenium:selenium-api:3.141.59" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.seleniumhq.selenium:selenium-api:3.141.59" type="70bed36:NamedLibraryElementNode" />
-              <item name="selenium-api-3.141.59.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BoxedTestAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.seleniumhq.selenium:selenium-api:3.141.59" type="70bed36:NamedLibraryElementNode" />
-              <item name="selenium-api-3.141.59.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -263,19 +63,7 @@
       <recent name="C:\Users\roman\IdeaProjects\boxedTestAutomation\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="TestNG.Tests.testAddFavoriteItems">
+  <component name="RunManager" selected="TestNG.Tests (1)">
     <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="boxedTestAutomation" />
       <extension name="coverage">
@@ -293,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest.testFreeShipping" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="boxedTestAutomation (2)" />
+    <configuration name="Tests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BoxedTestAutomation" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="base.*" />
@@ -302,9 +90,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="base" />
-      <option name="MAIN_CLASS_NAME" value="base.LoginTest" />
-      <option name="METHOD_NAME" value="testFreeShipping" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="base.Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -366,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Tests (1)" />
         <item itemvalue="TestNG.Tests.testAddFavoriteItems" />
         <item itemvalue="TestNG.Tests.testSuccessfulLogin" />
         <item itemvalue="TestNG.Tests" />
         <item itemvalue="TestNG.LoginTest" />
-        <item itemvalue="TestNG.LoginTest.testFreeShipping" />
       </list>
     </recent_temporary>
   </component>
@@ -399,78 +186,27 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="Tests_testAddFavoriteItems - 2019.12.18 at 21h 56m 52s.xml">
-      <configuration name="Tests.testAddFavoriteItems" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Tests_testAddFavoriteItems - 2019.12.18 at 21h 59m 00s.xml">
-      <configuration name="Tests.testAddFavoriteItems" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Tests_testAddFavoriteItems - 2019.12.18 at 22h 10m 17s.xml">
-      <configuration name="Tests.testAddFavoriteItems" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Tests_testAddFavoriteItems - 2019.12.18 at 22h 11m 10s.xml">
-      <configuration name="Tests.testAddFavoriteItems" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Tests_testAddFavoriteItems - 2019.12.18 at 22h 12m 49s.xml">
-      <configuration name="Tests.testAddFavoriteItems" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Tests_testSuccessfulLogin - 2019.12.18 at 22h 20m 55s.xml">
-      <configuration name="Tests.testSuccessfulLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Tests_testSuccessfulLogin - 2019.12.18 at 22h 22m 59s.xml">
-      <configuration name="Tests.testSuccessfulLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Tests - 2019.12.18 at 22h 47m 02s.xml">
-      <configuration name="Tests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Tests_testSuccessfulLogin - 2019.12.18 at 22h 49m 05s.xml">
-      <configuration name="Tests.testSuccessfulLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Tests_testAddFavoriteItems - 2019.12.18 at 22h 50m 30s.xml">
-      <configuration name="Tests.testAddFavoriteItems" configurationId="TestNG" />
-    </history-entry>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32981783" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-  </component>
   <component name="WindowStateProjectService">
-    <state width="1876" height="391" key="GridCell.Tab.0.bottom" />
-    <state width="1876" height="391" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" />
-    <state width="1876" height="391" key="GridCell.Tab.0.center" />
-    <state width="1876" height="391" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" />
-    <state width="1876" height="391" key="GridCell.Tab.0.left" />
-    <state width="1876" height="391" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" />
-    <state width="1876" height="391" key="GridCell.Tab.0.right" />
-    <state width="1876" height="391" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" />
+    <state width="1876" height="391" key="GridCell.Tab.0.bottom" timestamp="1576767184135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="391" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576767184135" />
+    <state width="1876" height="391" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1576765536252" />
+    <state width="1876" height="391" key="GridCell.Tab.0.center" timestamp="1576767184135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="391" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576767184135" />
+    <state width="1876" height="391" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1576765536252" />
+    <state width="1876" height="391" key="GridCell.Tab.0.left" timestamp="1576767184135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="391" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576767184135" />
+    <state width="1876" height="391" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1576765536252" />
+    <state width="1876" height="391" key="GridCell.Tab.0.right" timestamp="1576767184135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="391" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576767184135" />
+    <state width="1876" height="391" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1576765536252" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -483,100 +219,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/JavascriptExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/base/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="37" column="28" selection-start-line="37" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/base/FavoritesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/base/baseTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="75" lean-forward="true" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1217#1218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/base/boxedTestAutomation.code-workspace">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="65" column="42" lean-forward="true" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1632#1633#0" expanded="true" />
-            <element signature="e#1691#1692#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/CookiesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/FavoritesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/CheckoutPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/GroceryPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="7" selection-start-line="19" selection-start-column="5" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/base/Tests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="52" column="41" lean-forward="true" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

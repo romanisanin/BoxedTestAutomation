@@ -22,12 +22,6 @@ public class CookiesPage {
         this.driver = driver;
     }
 
-//    public void waitForLoad() {
-//        ExpectedCondition<Boolean> pageLoadCondition = driver -> ((JavascriptExecutor)driver).executeScript("return document.readyState").equals("complete");
-//        WebDriverWait wait = new WebDriverWait(driver, 30);
-//        wait.until(pageLoadCondition);
-//    }
-
     public void waitForElement() {
         Set<String> windows = driver.getWindowHandles();
         for (String window : windows) {
@@ -35,7 +29,7 @@ public class CookiesPage {
         }
    }
 
-    public void getCookiesList() throws InterruptedException{
+    public void getCookiesList(){
         WebElement industries = driver.findElement(By.className("g-product-list"));
         List<WebElement> links = industries.findElements(By.tagName("li"));
         for (int i = 0; i < 2; i++)
@@ -47,7 +41,6 @@ public class CookiesPage {
             el.click();
             wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//div[@aria-label='Close modal']")));
             wait.until(ExpectedConditions.elementToBeClickable(By.id("top-nav-logo")));
-            Thread.sleep(1000);
             AddedFav.add(links.get(i).findElement(product_name).getText());
             System.out.println(links.get(i).findElement(product_name).getText());
         }

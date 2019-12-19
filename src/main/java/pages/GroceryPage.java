@@ -1,8 +1,6 @@
 package pages;
 
 import org.openqa.selenium.*;
-import org.openqa.selenium.support.ui.ExpectedCondition;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.ArrayList;
@@ -17,13 +15,7 @@ public class GroceryPage {
         this.driver = driver;
     }
 
-//    public void waitForLoad() {
-//        ExpectedCondition<Boolean> pageLoadCondition = driver -> ((JavascriptExecutor)driver).executeScript("return document.readyState").equals("complete");
-//        WebDriverWait wait = new WebDriverWait(driver, 30);
-//        wait.until(pageLoadCondition);
-//    }
-
-    public void AddUntilFreeShipping() throws InterruptedException{
+    public void AddUntilFreeShipping(){
         WebElement products = driver.findElement(By.className("g-product-list"));
         WebDriverWait wait = new WebDriverWait(driver, 10);
         List<WebElement> list = products.findElements(By.tagName("li"));

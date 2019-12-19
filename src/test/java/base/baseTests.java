@@ -23,7 +23,6 @@ public class baseTests {
         driver.manage().deleteAllCookies();
         driver.manage().window().maximize();
         driver.get(" https://www.boxed.com/shop/");
-        //driver.manage().timeouts().pageLoadTimeout(15, TimeUnit.SECONDS);
         pageLoad();
 
         homePage = new HomePage(driver);
